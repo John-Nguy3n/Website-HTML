@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+/*Tao bo cuc hien thi cho anh*/
+#noidung_01	{
+	height:auto;
+	width:100%;
+}
+#noidung_01 img	{
+	height:340px;
+	width:500px;
+	float:left;
+	margin-right:20px;
+	transition: 0.4s ease;
+}
+#noidung_01 img:hover	{
+	-webkit-transform: scale(1.08);
+  transform: scale(1.05);
+  opacity:0.7;
+}
+#noidung_01 h3	{
+	margin:0;
+	margin:
+	
+}
+#noidung_01 h3 a	{
+	text-decoration:none;
+	color:#000;
+	font-size:20px;
+}
+#noidung_01 a:hover	{
+	color:#F00;
+}
+#noidung_01 p	{
+	text-indent:10px;
+}
+#noidung_01 ul {
+	list-style:none;
+	margin:0;
+	display:block;
+}
+#noidung_01 ul li	{
+	background-image:url(../Images/Icon_PS03423.png);
+	background-repeat:no-repeat;
+	margin-left:1px;
+	background-position:465px;
+}
+#noidung_01 ul li a{
+	text-decoration:none;
+}
+#line	img{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.noidung_02{
+	height:200px;
+	width:100%;
+	border-bottom:dotted 2px #666;
+	padding-bottom:20px;
+}
+.noidung_02_image	{
+	float:left;
+	height:100%;
+	width:300px;
+}
+.noidung_02_image img	{
+	height:200px;
+	width:300px;
+	transition: 0.4s ease;
+}
+.noidung_02_image img:hover	{
+	-webkit-transform: scale(1.08);
+  transform: scale(1.05);
+  opacity:0.7;
+}
+.noidung_02_chitiet {
+	height:100%;
+	width:580px;
+	float:right;
+}
+.noidung_02_chitiet h2	{
+	margin:0;
+}
+.noidung_02_chitiet ul li a	{
+	text-decoration:none;
+	
+}
+.noidung_02_chitiet h2 a{
+	text-decoration:none;
+	color:#000;
+}
+.noidung_02_chitiet h2 a:hover	{
+	color:#F00;
+}

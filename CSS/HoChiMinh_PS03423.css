@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+#menu_con	{
+	height:30px;
+	width:100%;
+	margin-top:20px;
+	border-top: solid 1px #999999;
+	font-weight:900;
+	padding-top:5px;
+	margin-bottom:-20px;
+}
+#map_LH	{
+	height:500px;
+	width:400px;
+	float:left;
+}
+#form	{
+	height:500px;
+	width: 430px;
+	margin-left:20px;
+	margin-right:20px;
+	float:right;
+	background-image:url(../Images/LH.jpg);
+	border-radius:10px;
+	position:relative;
+}
+.button	{
+	width:100px;
+	height:30px;
+	text-align:center;
+}
+.text	{
+	width:200px;
+	display:inline-block;
+	font-weight:bold;
+	margin-left:20px;
+}
+.fields	{
+	width:1000px;
+	margin:20px;
+}
+.StandardTexbox	{
+	width:200px;
+	height:20px;
+	margin-top:5px;
+	margin-left:-35px
+}
+.fields1{
+	width:300px;
+	margin:5px;
+	position:absolute;
+	left:190px;
+	top: 450px;
+}
+.fields01	{
+	width:1000px;
+	margin:10px;
+	height:200px;
+}
+.diachi	{
+	height:100px;
+	width:200px;
+	margin-top:5px;
+	margin-left:-25px
+}
+span	{
+	color:#F00;
+}
+#form h2	{
+	text-align:center;
+}

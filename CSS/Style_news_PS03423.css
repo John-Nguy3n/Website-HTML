@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+#menu_con	{
+	height:30px;
+	width:100%;
+	margin-top:20px;
+	border-top: solid 1px #999999;
+	font-weight:900;
+	padding-top:5px;
+}
+#menu_con a	{
+	color:#936;
+	text-decoration:none;
+}
+#tieude_news	{
+	height:auto;
+	width:100%;
+}
+#ngayxuatban	{
+	width:100%;
+	height:20px;
+}
+#ngayxuatban p	{
+	    color: #959595;
+    font-family: Arial;
+    font-size: 11px;
+    margin-bottom: 8px;
+    margin-top: -10px;
+	text-align:right;
+	margin-right:50px;
+}
+#noidung	{
+	height:auto;
+	widows:100%;
+	
+}
+#noidung p	{
+	text-indent:20px;
+	line-height:1.5;
+}
+#noidung .anh_news	{
+	height:532px;
+	width:718px;
+	margin:0 auto;
+	margin-bottom:40px
+}
+#noidung .anh_news img	{
+	height:auto;
+	width:auto;
+
+}
+#noidung .anh_news  p{
+	text-align:center;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	margin-top:5px;
+	color:#666;
+}
